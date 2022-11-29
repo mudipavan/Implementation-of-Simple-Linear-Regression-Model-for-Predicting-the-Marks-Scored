@@ -75,10 +75,15 @@ print("RMSE = ",rmse)
 
 # OUTPUT:
 ![image](https://user-images.githubusercontent.com/94619247/202135463-323afc14-f687-4ab2-9829-016a78de5ab6.png)
+![image](https://user-images.githubusercontent.com/94828517/204454644-f36f02fc-4a8d-44cb-a29b-147782ed76e6.png)
+![image](https://user-images.githubusercontent.com/94828517/204454666-65645cb8-0315-48ec-a152-7133b8f4ecc3.png)
+
 ![image](https://user-images.githubusercontent.com/94619247/202135563-6e515e78-ebc5-4b82-9ae1-60cc7fd7d3ca.png)
 ![image](https://user-images.githubusercontent.com/94619247/202135605-9d2d729a-2a1f-43f9-ba23-687c86594537.png)
 ![image](https://user-images.githubusercontent.com/94619247/202135668-245643fd-7f77-4607-bbd6-1b2369d30979.png)
 ![image](https://user-images.githubusercontent.com/94619247/202135706-0ae58a1c-c7fc-412e-93b6-4b3e77a7caa9.png)
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/94828517/204455986-7087123e-0acf-4ee7-bef1-d677847f2567.png">
+
 
 
 # RESULT:
